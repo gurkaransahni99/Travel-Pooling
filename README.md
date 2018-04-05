@@ -1,2 +1,2 @@
 # Travel-Pooling
-Easy and efficient way for people travelling towards same destination to pool 
+Easy and efficient way for travel pooling.
